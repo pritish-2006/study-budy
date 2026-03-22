@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background-color: #f4f4f4;
+}
+
+.navbar {
+    background-color: #2c3e50;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-links a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.container {
+    text-align: center;
+    margin-top: 80px;
+}
+
+form {
+    background: white;
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    box-shadow: 0px 0px 10px gray;
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #2c3e50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
